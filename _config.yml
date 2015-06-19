@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Cyzus‘ Blog
+description:      Why so serious?
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -8,11 +8,11 @@ words_per_minute: 200
 url:
 
 # Owner/author information
-owner:
-  name:           Your Name
+owner:cyzfiles
+  name:           Cyzus
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            英俊潇洒、风流倜傥、玉树临风的中学狗
+  email:          Cyzus@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Hong_Kong
 future:      true
 highlighter: pygments
 markdown:    kramdown
