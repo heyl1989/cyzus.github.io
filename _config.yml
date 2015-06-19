@@ -1,69 +1,29 @@
-title:            Cyzus‘ Blog
-description:      Why so serious?
-disqus_shortname: hpstrtheme
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
+# Site settings
+title: Hux Blog 
+header-img: img/home-bg.jpg
+email: huxpro@gmail.com
+description: "一生想做浪漫极客。@Hux黄玄的博客主页、个人网站, 知乎@黄玄／阿里@鬼栈／Front-End／UX Unicorn／Web &amp; Mobile Lover／Motion Design "
+baseurl: ""
+url: "http://huxpro.github.io"
+twitter_username: huxpro
+github_username:  huxpro
+facebook_username:  huxpro
+weibo_username: huxpro
+zhihu_username: huxpro
 
-# Owner/author information
-owner:
-  name:           Cyzus
-  avatar:         avatar.jpg
-  bio:            "英俊潇洒、风流倜傥、玉树临风的中学狗"
-  email:          Cyzus@outlook.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+# Build settings
+markdown: kramdown 
 
-# Background image to be tiled on all pages
-background: 
+# markdown: redcarpet
+# redcarpet can auto highlight code, but the lack of header-id make the catalog impossible 
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Hong_Kong
-future:      true
 highlighter: pygments
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-sass:
-  sass_dir: _sass
-  style: compressed
+permalink: pretty
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
-
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+  input: GFM
