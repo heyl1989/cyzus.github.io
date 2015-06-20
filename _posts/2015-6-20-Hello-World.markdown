@@ -9,15 +9,16 @@ tag:
    - Journal
 ---
 
-> **¡°ÎÚÀ­ÎÚÀ­ÎÚÀ­ ¡±**
+> **â€œä¹Œæ‹‰ä¹Œæ‹‰ä¹Œæ‹‰ â€**
 
 
-ÓÚÊÇCyzusµÄ²©¿Í¾ÍÕâÑù¿ªÍ¨ÁË¡£
+äºŽæ˜¯Cyzusçš„åšå®¢å°±è¿™æ ·å¼€é€šäº†ã€‚
 
-¸ÐÐ»github pagesÓÐ°®µÄÎÞÏÞ¿Õ¼ä£¬¸ÐÐ»´óÉñHuxÌá¹©µÄjekyllÄ£°å
+æ„Ÿè°¢github pagesæœ‰çˆ±çš„æ— é™ç©ºé—´ï¼Œæ„Ÿè°¢å¤§ç¥žHuxæä¾›çš„jekyllæ¨¡æ¿
 
-ÄÇÃ´½ÓÏÂÀ´¾ÍÕâÑùÐ´ÎÄÕÂ°É£¬¾ÍÕâÑùºÃßÕ
+é‚£ä¹ˆæŽ¥ä¸‹æ¥å°±è¿™æ ·å†™æ–‡ç« å§ï¼Œå°±è¿™æ ·å¥½å“’
 
-ºóÌì»¹ÓÐÉúµØ»á¿¼£¬²»ÍæÁË
+åŽå¤©è¿˜æœ‰ç”Ÿåœ°ä¼šè€ƒï¼Œå¤ä¹ åŽ»ä¸çŽ©äº†
+
 
 
