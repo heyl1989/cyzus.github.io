@@ -10,7 +10,7 @@ date:       2015-06-21 09:00:00
 
 author:     "Cyzus"
 
-header-img: "img/"
+header-img: "img/2015-6-21-github-build-blog/The-New-Internet.jpg"
 
 tag:
 
