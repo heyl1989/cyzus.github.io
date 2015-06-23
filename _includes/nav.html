@@ -19,18 +19,18 @@
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
                 {% for page in site.pages %}{% if page.title %}
-                <li>
-				    <a href="http://cyzus.sourceforge.net/" target="_blank">Boatrip</a>
-				</li>
+                
 				<li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
                 {% endif %}{% endfor %}
+                <li>
+				    <a href="http://cyzus.sourceforge.net/" target="_blank">Boatrip</a>
+				</li>
+                <!-- Cyzus customized -->
 
-                <!-- Hux customized -->
 
-
-                <!-- Hux end -->
+                <!-- Cyzus end -->
             </ul>
         </div>
         <!-- /.navbar-collapse -->
