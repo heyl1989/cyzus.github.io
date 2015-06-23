@@ -38,7 +38,7 @@ github有一个很有爱的项目，叫做github pages，这个项目是给开�
 
 ### 4.注册github账号 ###
 
-打开https://github.com/站点，注册一个账号
+打开[https://github.com/](https://github.com/)站点，注册一个账号
 
 ![img](/img/2015-6-21-github-build-blog/sign-up.jpg)
 
@@ -60,7 +60,7 @@ github有一个很有爱的项目，叫做github pages，这个项目是给开�
 ### 6.创建仓库 ###
 
 接下来到这个页面去创建一个新仓库
-https://github.com/new
+[https://github.com/new](https://github.com/new)
 
 这个新仓库就将是存放你即将拥有的博客的地方
 
@@ -108,15 +108,13 @@ body就是正文了
 
 在继续教程前，你可以先预览一下你的页面，但实际你最后做出的效果会和这个比起来好几百倍，但你可以先确认一下能不能显示出页面来
 
-例如我的
-http://cyzfiles.github.io/
-
 ### 12.下载安装github ###
 
 下载属于你的系统的github，并安装
 
-Windows：https://windows.github.com/
-Mac：        https://mac.github.com/
+Windows：[https://windows.github.com/](https://windows.github.com/)
+
+Mac：        [https://mac.github.com/](https://mac.github.com/)
 
 我之后就用Windows示范了
 
@@ -130,15 +128,15 @@ Mac：        https://mac.github.com/
 
 ### 14.选择主题框架 ###
 
-这时候，你就该真正考虑一下你的博客主题风格了，如果你web开发的功底不好，就不建议频繁更换主题了，虽然要改也不是不行，只是要折腾就是了
+这时候，你就该真正考虑一下你的博客主题风格了，如果你前端开发的功底不好，就不建议频繁更换主题了，虽然要改也不是不行，只是要折腾就是了
 
 到这个网站选择你喜欢的模板
-http://jekyllthemes.org/
+[http://jekyllthemes.org/](http://jekyllthemes.org/)
 
 ![img](/img/2015-6-21-github-build-blog/themes-serious.jpg)
 
 我就以这套模板为范例来进行教程，因为这个极其精简，可塑性（后期更改性）极强，推荐一下
-http://jekyllthemes.org/themes/cool-concise-high-end/
+[http://jekyllthemes.org/themes/cool-concise-high-end/](http://jekyllthemes.org/themes/cool-concise-high-end/)
 
 ![img](/img/2015-6-21-github-build-blog/cool-concise-high-end.jpg)
 
