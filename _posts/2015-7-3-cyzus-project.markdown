@@ -4,7 +4,7 @@ title:      "项目合集"
 subtitle:   "一切都是为了生活"
 date:       2015-06-23 09:00:00
 author:     "Cyzus"
-header-img: "img/"
+header-img: "img/projects.jpg"
 tag:
    - Project
 ---
@@ -24,7 +24,7 @@ tag:
 自己做的旅行日志，出去旅游可以来这里参考参考！（目前还在搭建中）
 
 ## 短信轰炸 ##
-[smsbomber.sinaapp.com](smsbomber.sinaapp.com)
+[http://smsbomber.sinaapp.com](http://smsbomber.sinaapp.com)
 
 你懂的~
 这个项目不建议经常使用，朋友恶作剧无可厚非，但是如果严重干扰他人的日常生活，是违法的
