@@ -6,7 +6,7 @@ date:       2015-06-23 09:00:00
 author:     "Cyzus"
 header-img: "img/boat.jpg"
 tag:
-   - Journal
+   - Project
 ---
 
 个人很喜欢旅游，写过很多旅行日志，建玩这个博客后，突发奇想，想把写过的日志上载到网上，把自己的经历分享出来。
