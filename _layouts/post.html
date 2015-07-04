@@ -57,7 +57,22 @@ layout: default
                         }
                     }
                 </style>
-                <div class="ds-share" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-images="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" data-content="| Cyzus' Blog" data-url="{{site.url}}{{page.url}}">
+                
+				
+				<!-- 文章版权信息 -->
+		        <div class="copyright alert alert-success">
+			        <p>
+				         版权属于:
+				         <a href="http://cyzus.github.io/">Cyzus'Blog</a>			</p>
+			        <p>
+				         原文地址:
+				         <a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>			</p>
+			        <p>转载时必须以链接形式注明原始出处及本声明。</p>
+		        </div>
+		        <!-- 文章版权信息结束 -->
+				
+				
+				<div class="ds-share" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-images="{{ site.url }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" data-content="| Cyzus' Blog" data-url="{{site.url}}{{page.url}}">
                     <div class="ds-share-inline">
                       <ul  class="ds-share-icons-16">
                         
