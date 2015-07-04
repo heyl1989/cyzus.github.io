@@ -15,7 +15,7 @@ header-img: "img/2015-6-21-github-build-blog/The-New-Internet.jpg"
 tag:
 
    - github
-   - 教程
+   - lesson
 
 ---
 
@@ -183,7 +183,7 @@ Mac：        [https://mac.github.com/](https://mac.github.com/)
 
 那么教程到这儿也差不多完了，之后你可以在**_posts** 文件夹里继续撰写博文，然后按照**第17步** 上传到github即可
 
-版权归[Cyzus](http://cyzus.github.io/)所有，转载请说明出处
+
 
 
 

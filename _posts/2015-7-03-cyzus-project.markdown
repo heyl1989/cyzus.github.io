@@ -2,7 +2,7 @@
 layout:     post
 title:      "项目合集" 
 subtitle:   "一切都是为了生活"
-date:       2015-06-23 09:00:00
+date:       2015-07-04 09:00:00
 author:     "Cyzus"
 header-img: "img/projects.jpg"
 tag:
