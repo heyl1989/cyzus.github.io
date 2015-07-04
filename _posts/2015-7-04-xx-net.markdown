@@ -9,13 +9,12 @@ tag:
    - lesson
 ---
 
-## 前言 ##
+### 前言 ###
 
 今年一月以来，GFW升级至2.0，这使得许多vpn失效，网民再次被高墙隔挡，连**GoAgent**这个翻墙神器都开始变得不稳定了，排查了一下原因，发现是内置的许多ip都已经被封锁，需要重新导入ip，那么这时就需要用到**GoGo test** 这类ip搜寻软件，导入可用的ip，**GoAgent**即可正常使用。
 
 现在有一个项目，集成了GoAgent和GoGo test，使翻墙变得更加便捷，那就是XX-Net
 
-## XX-Net ##
 
 ### 主要特性 ###
 
@@ -63,7 +62,7 @@ tag:
 
 Github：<a href="https://github.com/cyzus/XX-Net" target="_blank">https://github.com/cyzus/XX-Net</a>
 
-## 感谢 ##
+### 感谢 ###
 
 - XX-Net有爱作者
 - GoAgent
