@@ -19,7 +19,7 @@ tag:
 连续签到1000天不是梦！
 
 ### 舟游 ###
-[http://cyzus.sourceforge.net/](http://cyzus.sourceforge.net/)
+[http://boatrip.tk/](http://boatrip.tk/)
 
 自己做的旅行日志，出去旅游可以来这里参考参考！（目前还在搭建中）
 
