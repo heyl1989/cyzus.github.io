@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "版权信息代码" 
-subtitle:   ""
+subtitle:   " \"\""
 date:       2015-07-14 09:00:00
 author:     "Cyzus"
 header-img: "img/code.jpg"
