@@ -15,24 +15,20 @@ tag:
 
 
 
-
-***原理
+###原理###
 
 
 我们都知道闰年的机制是“四年一闰，百年不闰，四百年一闰”，所以小程序如下所示：
 >year = input ("pleaz input year:" )
-
->if (year % 100 == 0) and (year % 400 == 0) or (year % 100 == 1) and (year % 4 == 0):
-
-> &#8195;&#8195;print ("this is a leap year")
-
->else:
-
+if (year % 100 == 0) and (year % 400 == 0) or (year % 100 == 1) and (year % 4 == 0):
+&#8195;&#8195;print ("this is a leap year")
+else:
 >&#8195;&#8195;print ("this isn't a leap year")
 
-***包装
+###包装###
 
 加上包装
+
 >var = 1
 while var == 1 :
 &#8195;&#8195;    year = input ("pleaz input year:" )
