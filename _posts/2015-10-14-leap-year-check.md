@@ -19,6 +19,7 @@ tag:
 
 
 我们都知道闰年的机制是“四年一闰，百年不闰，四百年一闰”，所以小程序如下所示：
+
 >year = input ("pleaz input year:" )
 if (year % 100 == 0) and (year % 400 == 0) or (year % 100 == 1) and (year % 4 == 0):
 &#8195;&#8195;print ("this is a leap year")
