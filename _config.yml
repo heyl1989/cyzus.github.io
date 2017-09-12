@@ -27,3 +27,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 kramdown:
   input: GFM
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
